@@ -18,7 +18,7 @@ html {
 h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400; /* 100 ~ 700 */
   font-style: normal;
 
   font-size: 2.0rem;
